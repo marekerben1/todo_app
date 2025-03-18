@@ -23,3 +23,4 @@ import { IconSelectionComponent } from '../icon-selection/icon-selection.compone
   schemas: [CUSTOM_ELEMENTS_SCHEMA]
 })
 export class CreateTaskModule {}
+
