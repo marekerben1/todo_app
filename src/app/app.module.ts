@@ -23,3 +23,4 @@ import { TaskViewComponent } from './components/task-view/task-view.component';
   bootstrap: [AppComponent],
 })
 export class AppModule {}
+
