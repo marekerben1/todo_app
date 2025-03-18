@@ -17,37 +17,36 @@ display:flex;
   background-color: #fff !important;
   }
 
- // border: none;
- // cursor: pointer;
+
 }
 
 .detail {
-  flex-grow: 1; /* Allow this div to grow and occupy remaining space */
-  margin:  10px; /* Add margins for spacing */
+  flex-grow: 1; 
+  margin:  10px;
 }
 .detail h2,
 .detail p {
-  margin: 0; /* Remove default margins */
+  margin: 0; 
 }
 .close-icon {
   cursor: pointer;
 }
 .close-icon {
   margin:5px;
-  width: 40px; /* Adjust the size of the circle */
+  width: 40px; 
   height: 40px;
-  background-color: #ccc; /* Gray background color */
-  border-radius: 50%; /* Create a circle shape */
+  background-color: #ccc; 
+  border-radius: 50%; 
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .icon-circle ion-icon {
-  font-size: 24px; /* Adjust the icon size */
+  font-size: 24px; 
 }
 .horizontal-line {
-  margin: 20px 0; /* Adjust margin as needed */
+  margin: 20px 0; 
   border: none;
-  border-top: 1px solid #ccc; /* Color and style of the horizontal line */
+  border-top: 1px solid #ccc; 
 }
