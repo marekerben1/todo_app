@@ -9,7 +9,7 @@ ion-datetime.stylebg{
 
 ion-card{
 
-  //opacity: 50%;
+
   .container {
     display: flex;
     align-items: center;
@@ -24,21 +24,21 @@ ion-card{
    }
   }
   .detail {
-    flex-grow: 1; /* Allow this div to grow and occupy remaining space */
-    margin:  10px; /* Add margins for spacing */
+    flex-grow: 1;
+    margin:  10px;
   }
   .detail h2,
   .detail p {
-    margin: 0; /* Remove default margins */
+    margin: 0;
   }
   .close-icon {
     cursor: pointer;
   }
   .close-icon {
-    width: 40px; /* Adjust the size of the circle */
+    width: 40px;
     height: 40px;
-    background-color: #ccc; /* Gray background color */
-    border-radius: 50%; /* Create a circle shape */
+    background-color: #ccc;
+    border-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
