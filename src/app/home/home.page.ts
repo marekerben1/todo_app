@@ -88,8 +88,7 @@ export class HomePage {
         backdropDismiss: true,
         animated: true,
       initialBreakpoint:0.45,
-      // breakpoints:[0.25, 0.5, 0.45],
-      //breakpoints: [0.25, 0, 0, 0],
+
         mode: 'ios',
         keyboardClose: true,
         componentProps: { data
